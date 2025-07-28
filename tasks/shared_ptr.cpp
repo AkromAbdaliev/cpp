@@ -23,7 +23,7 @@ int main()
     std::cout << "Printing unique: " << std::boolalpha<<sharedPtr1.unique() << std::endl;
 
     sharedPtr1.reset();
-    std::cout << "Use counts: " << sharedPtr1.use_count() << std::endl;
+    std::cout << "Use counts (sharedPtr1): " << sharedPtr1.use_count() << std::endl;
 
     std::cout << "Printing address 1: " << sharedPtr1.get() << std::endl;
 
