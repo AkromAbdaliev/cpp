@@ -1,0 +1,56 @@
+<?xml version='1.0' ?>
+<svg viewBox='0 0 2500 500' xmlns='http://www.w3.org/2000/svg'>
+<rect width='100%' height='100%' fill='midnightblue' />
+<circle cx='70' cy='50' r='40' fill='khaki' />
+<polygon points='50,200 125,100 200,200' fill='sienna' stroke='red' stroke-width='3' />
+<rect x='50' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='125' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='70' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='145' y='260' width='40' height='80' fill='sienna' stroke='red' stroke-with='3' />
+<polygon points='300,200 375,100 450,200' fill='chocolate' stroke='red' stroke-width='3' />
+<rect x='300' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='375' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='320' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='395' y='260' width='40' height='80' fill='chocolate' stroke='red' stroke-with='3' />
+<polygon points='550,200 625,100 700,200' fill='darkmagenta' stroke='red' stroke-width='3' />
+<rect x='550' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='625' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='570' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='645' y='260' width='40' height='80' fill='darkmagenta' stroke='red' stroke-with='3' />
+<polygon points='800,200 875,100 950,200' fill='indianred' stroke='red' stroke-width='3' />
+<rect x='800' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='875' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='820' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='895' y='260' width='40' height='80' fill='indianred' stroke='red' stroke-with='3' />
+<polygon points='1050,200 1125,100 1200,200' fill='blueviolet' stroke='red' stroke-width='3' />
+<rect x='1050' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='1125' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='1070' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='1145' y='260' width='40' height='80' fill='blueviolet' stroke='red' stroke-with='3' />
+<polygon points='1300,200 1375,100 1450,200' fill='maroon' stroke='red' stroke-width='3' />
+<rect x='1300' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='1375' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='1320' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='1395' y='260' width='40' height='80' fill='maroon' stroke='red' stroke-with='3' />
+<polygon points='1550,200 1625,100 1700,200' fill='green' stroke='red' stroke-width='3' />
+<rect x='1550' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='1625' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='1570' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='1645' y='260' width='40' height='80' fill='green' stroke='red' stroke-with='3' />
+<polygon points='1800,200 1875,100 1950,200' fill='teal' stroke='red' stroke-width='3' />
+<rect x='1800' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='1875' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='1820' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='1895' y='260' width='40' height='80' fill='teal' stroke='red' stroke-with='3' />
+<polygon points='2050,200 2125,100 2200,200' fill='indianred' stroke='red' stroke-width='3' />
+<rect x='2050' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='2125' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='2070' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='2145' y='260' width='40' height='80' fill='indianred' stroke='red' stroke-with='3' />
+<polygon points='2300,200 2375,100 2450,200' fill='sienna' stroke='red' stroke-width='3' />
+<rect x='2300' y='203' width='150' height='150' fill='tan' stroke='blue' stroke-width='3' />
+<circle cx='2375' cy='160' r='20' fill='lightskyblue' stroke='black' stroke-width='2' />
+<rect x='2320' y='260' width='60' height='40' fill='lightskyblue' stroke='black' stroke-with='2' />
+<rect x='2395' y='260' width='40' height='80' fill='sienna' stroke='red' stroke-with='3' />
+<rect x='0' y='380' width='2500' height='102' fill='dimgray' />
+</svg>

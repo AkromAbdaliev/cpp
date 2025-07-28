@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<svg width='300' height='400' xmlns='http://www.w3.org/2000/svg'>
+<ellipse cx='150' cy='170' rx='75' ry='95' fill='peru' stroke='black' stroke-width='2'/>
+<ellipse cx='150' cy='110' rx='60' ry='50' fill='peru' stroke='black' stroke-width='2'/>
+<ellipse cx='90' cy='190' rx='20' ry='80' fill='maroon' stroke='black' stroke-width='2'/>
+<ellipse cx='210' cy='190' rx='20' ry='80' fill='maroon' stroke='black' stroke-width='2'/>
+<ellipse cx='190' cy='265' rx='5' ry='11' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='180' cy='265' rx='5' ry='10' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='170' cy='265' rx='5' ry='10' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='110' cy='265' rx='5' ry='11' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='120' cy='265' rx='5' ry='10' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='130' cy='265' rx='5' ry='10' fill='yellow' stroke='black' stroke-width='2'/>
+<ellipse cx='170' cy='110' rx='15' ry='18' fill='white' stroke='black' stroke-width='2'/>
+<ellipse cx='130' cy='110' rx='15' ry='18' fill='white' stroke='black' stroke-width='2'/>
+<ellipse cx='170' cy='96' rx='14' ry='6' fill='darkorange' stroke='black' stroke-width='2'/>
+<ellipse cx='130' cy='96' rx='14' ry='6' fill='darkorange' stroke='black' stroke-width='2'/>
+<ellipse cx='130' cy='114' rx='5' ry='8' fill='black' stroke='black' stroke-width='2'/>
+<ellipse cx='170' cy='114' rx='5' ry='8' fill='black' stroke='black' stroke-width='2'/>
+<polygon points='65,17 50,40 70,50' fill='brown' stroke='black' stroke-width='2' transform='translate(120, 26)'/>
+<polygon points='45,18 65,40 45,54' fill='brown' stroke='black' stroke-width='2' transform='translate(60, 26)'/>
+<polygon points='56,25 66,10 45,10' fill='yellow' stroke='black' stroke-width='2' transform='translate(93, 120)'/>
+</svg>

@@ -1,0 +1,14 @@
+C:\Users\akrom\cpp\bin\Debug\net8.0\cpp.exe
+C:\Users\akrom\cpp\bin\Debug\net8.0\cpp.deps.json
+C:\Users\akrom\cpp\bin\Debug\net8.0\cpp.runtimeconfig.json
+C:\Users\akrom\cpp\bin\Debug\net8.0\cpp.dll
+C:\Users\akrom\cpp\bin\Debug\net8.0\cpp.pdb
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.AssemblyInfoInputs.cache
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.AssemblyInfo.cs
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.csproj.CoreCompileInputs.cache
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.dll
+C:\Users\akrom\cpp\obj\Debug\net8.0\refint\cpp.dll
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.pdb
+C:\Users\akrom\cpp\obj\Debug\net8.0\cpp.genruntimeconfig.cache
+C:\Users\akrom\cpp\obj\Debug\net8.0\ref\cpp.dll

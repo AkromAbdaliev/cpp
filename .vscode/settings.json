@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "xlocale": "cpp",
+        "memory": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "C:/Users/akrom/cpp/cpp-refresh/MyApp"
+}
