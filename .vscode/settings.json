@@ -4,7 +4,8 @@
         "iostream": "cpp",
         "chrono": "cpp",
         "xlocale": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "locale": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "cmake.sourceDirectory": "C:/Users/akrom/cpp/cpp-refresh/MyApp"

@@ -32,7 +32,7 @@ int main()
     lambda_val();
     std::cout << "after: global: a = " << a << ", b = " << b << "\n";
 
-    // without mutable cannot work with 'a' again.
+    // mutable needed to work with 'a'.
     auto lambda_mix = [a, &b]() mutable
     {
         a += 5;

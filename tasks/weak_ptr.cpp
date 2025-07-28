@@ -19,14 +19,5 @@ int main()
     sharedPtr.reset();
     std::cout << "Is weak expired? " << std::boolalpha << weakPtr.expired() << "\n";
 
-    if (auto locked = weakPtr.lock())
-    {
-        std::cout << "Locked successfully.\n";
-    }
-    else
-    {
-        std::cout << "Could not lock. Object already destroyed.\n";
-    }
-
     return 0;
 }
